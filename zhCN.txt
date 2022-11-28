@@ -1,4 +1,3 @@
-L = L or {}
 L["%d |4Group:Groups; Selected (%d |4Item:Items;)"] = "%d |4组:组; 已选 (%d|4项:项;)"
 L["%d auctions"] = "%d个拍卖"
 L["%d Characters"] = "%d个角色"
@@ -36,7 +35,6 @@ L["%s group updated with %d items and %d materials."] = "%s分组已更新%d件�
 L["%s in guild vault"] = "%s 在公会仓库"
 L["%s is a valid custom price but %s is an invalid item."] = "%s 是一个有效的自定义价格但 %s 是一个无效物品。"
 L["%s is a valid custom price but did not give a value for %s."] = "%s 是一个有效的自定义价格但没有为 %s 给出一个值。"
---[[Translation missing --]]
 L["'%s' is an invalid operation. Min restock of %d is higher than max restock of %d for %s."] = "'%s' is an invalid operation. Min restock of %d is higher than max restock of %d for %s."
 L["%s is not a valid custom price and gave the following error: %s"] = "%s 不是一个有效的自定义价格,错误信息: %s"
 L["%s Items Bought"] = "已购买%s"
