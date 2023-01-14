@@ -1144,6 +1144,7 @@ L["Start either a 'Buyout' or 'Bid' sniper using the buttons above."] = "아래 
 L["Starting Scan..."] = "스캔 시작..."
 L["Store operations globally"] = "옵션을 캐릭터 전체에 걸쳐 저장하기"
 L["Stormwind"] = "스톰윈드"
+L["StoryBoard"] = "StoryBoard"
 L["String"] = "String"
 L["Subject"] = "제목"
 L["Subject & Description added"] = "Subject & Description added"

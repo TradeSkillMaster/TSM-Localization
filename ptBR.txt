@@ -1144,6 +1144,7 @@ L["Start either a 'Buyout' or 'Bid' sniper using the buttons above."] = "Comece 
 L["Starting Scan..."] = "Começando escaneamento..."
 L["Store operations globally"] = "Armazenar operações globalmente"
 L["Stormwind"] = "Stormwind"
+L["StoryBoard"] = "StoryBoard"
 L["String"] = "String"
 L["Subject"] = "Assunto"
 L["Subject & Description added"] = "Subject & Description added"

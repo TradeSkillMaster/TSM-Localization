@@ -1144,6 +1144,7 @@ L["Start either a 'Buyout' or 'Bid' sniper using the buttons above."] = "使用�
 L["Starting Scan..."] = "開始掃描..."
 L["Store operations globally"] = "全局保存作業"
 L["Stormwind"] = "暴風城"
+L["StoryBoard"] = "StoryBoard"
 L["String"] = "字串"
 L["Subject"] = "主題"
 L["Subject & Description added"] = "添加主題 & 說明"
