@@ -1178,6 +1178,7 @@ L["Tasks Added to Task List"] = "Задача добавлена в ваш сп�
 L["Tells you why a specific item is not being restocked and added to the queue."] = "Сообщает вам, почему конкретный элемент не пополняется и не добавляется в очередь."
 L["Text (%s)"] = "Текст (%s)"
 L["The '%s' function has an invalid number of arguments."] = "The '%s' function has an invalid number of arguments."
+L["The '%s' item parameter was used outside of a custom source."] = "The '%s' item parameter was used outside of a custom source."
 L["The 'Craft Value Method' did not return a value for this item."] = "Метод 'Стоимость создания вещи' не вернул значение для этого элемента."
 L["The 'use smart average for purchase price' setting has been removed from TSM and replaced with a new 'SmartAvgBuy' price source. Please update your custom prices appropriately."] = "Параметр «Использовать интеллектуальное среднее значение для закупочной цены» был удален из TSM и заменен новым источником цен «SmartAvgBuy». Пожалуйста, обновите свои пользовательские цены соответствующим образом."
 L["The AH does not support specifying a copper value (only gold and silver)."] = "The AH does not support specifying a copper value (only gold and silver)."
