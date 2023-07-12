@@ -24,7 +24,7 @@ To contribute an update to the localized strings, follow these steps:
 
 * Make sure not to include any extra whitespace at the beginning or ending of the translated string.
 * `%d` or `%s` are format specifiers which will dynamically be replaced by a value. For example, in the string `"Scanning (%d Items)"`, the `%d` will be replaced by a numeric value before getting displayed. If there are multiple format specifiers in a string, the order must be maintained.
-* A `%s` format specifier may also be used to change the color of a portion of a string, with the portion either ending in another `%s` or in a `|r`. The potion of these should also be maintained as appropriate.
+* A `%s` format specifier may also be used to change the color of a portion of a string, with the portion either ending in another `%s` or in a `|r`. The position of these should also be maintained as appropriate.
 * Try and keep the length of the text the same size as or smaller than the original English phrase to ensure it'll fit nicely in the allotted space in the UI.
 
 ## License
