@@ -1325,7 +1325,6 @@ L["You cannot use %s as part of this custom price."] = "Non puoi usare %s come p
 L["You do not need to add \\\"%s\\\", alts are whitelisted automatically."] = "You do not need to add \\\"%s\\\", alts are whitelisted automatically."
 L["You don't know how to craft this item."] = "Non conosci come creare questo oggetto."
 L["You either already have at least your max restock quantity of this item or the number which would be queued is less than the min restock quantity."] = "Hai già almeno la quantità massima di rifornimento di questo oggetto o il numero che verrebbe messo in coda è inferiore alla quantità minima di rifornimento."
-L["You must reload your UI for these settings to take effect. Reload now?"] = "Devi ricaricare la tua UI affinchè queste impostazione abbiano effetto. Ricaricare ora?"
 L["You won an auction for %sx%d for %s"] = "Hai vinto un'asta per %sx %d per %s"
 L["You've been phased which has caused the AH to stop working due to a bug on Blizzard's end. Please close and reopen the AH and restart Sniper."] = "Sei stato fasato in modo da aver causato l'interruzione del funzionamento della CdA a causa di un bug Blizzard. Chiudi e riapri la CdA e riavvia Cecchino."
 L["You've been undercut."] = "Sei stato undercuttato."

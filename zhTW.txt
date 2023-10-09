@@ -1325,7 +1325,6 @@ L["You cannot use %s as part of this custom price."] = "你不能使用%s作為�
 L["You do not need to add \\\"%s\\\", alts are whitelisted automatically."] = "You do not need to add \\\"%s\\\", alts are whitelisted automatically."
 L["You don't know how to craft this item."] = "你未學會製造這個物品。"
 L["You either already have at least your max restock quantity of this item or the number which would be queued is less than the min restock quantity."] = "你要麼至少已經有了這個物品的最大補貨數量，要麼需要加入隊列的數值小於最小補貨數量。"
-L["You must reload your UI for these settings to take effect. Reload now?"] = "你需要重載UI來使這些設置生效。是否現在重載？"
 L["You won an auction for %sx%d for %s"] = "你贏得 %s x %d 的拍賣，共花了 %s。"
 L["You've been phased which has caused the AH to stop working due to a bug on Blizzard's end. Please close and reopen the AH and restart Sniper."] = "由於暴雪終端的一個bug，你已經被分階段處理，導致AH停止工作。請關閉並重新打開拍賣行，重啓狙擊。"
 L["You've been undercut."] = "你已被削價。"
