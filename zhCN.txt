@@ -499,7 +499,6 @@ L["Failed to post %sx%d as the item no longer exists in your bags."] = "无法�
 L["Failed to post auction due to the auction house being busy. Ensure no other addons are scanning the AH and try again."] = "Failed to post auction due to the auction house being busy. Ensure no other addons are scanning the AH and try again."
 L["Failed to send profile."] = "发送配置文件失败。"
 L["Failed to send profile. Ensure both characters are online and try again."] = "发送配置文件失败。确保两个角色都在线，然后重试。"
-L["Failed to start sniper. No groups have a Sniper operation applied."] = "无法启动狙击，没有分组采用了狙击操作。"
 L["Favorite Scans"] = "收藏的扫描"
 L["Favorite Searches"] = "收藏的搜索"
 L["Favorited Patterns"] = "收藏夹配方"

@@ -499,7 +499,6 @@ L["Failed to post %sx%d as the item no longer exists in your bags."] = "A échou
 L["Failed to post auction due to the auction house being busy. Ensure no other addons are scanning the AH and try again."] = "Failed to post auction due to the auction house being busy. Ensure no other addons are scanning the AH and try again."
 L["Failed to send profile."] = "Échec d'envoi du profile."
 L["Failed to send profile. Ensure both characters are online and try again."] = "Échec d'envoi du profil. Assurez vous que les deux personnages sont connectés et réessayez."
-L["Failed to start sniper. No groups have a Sniper operation applied."] = "Échec du démarrage de Sniper. Aucun groupe n'a d'opération Sniper."
 L["Favorite Scans"] = "Scans favoris"
 L["Favorite Searches"] = "Recherches favorites"
 L["Favorited Patterns"] = "Modèles favoris"

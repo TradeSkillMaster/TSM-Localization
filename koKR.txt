@@ -499,7 +499,6 @@ L["Failed to post %sx%d as the item no longer exists in your bags."] = "가방�
 L["Failed to post auction due to the auction house being busy. Ensure no other addons are scanning the AH and try again."] = "Failed to post auction due to the auction house being busy. Ensure no other addons are scanning the AH and try again."
 L["Failed to send profile."] = "프로필 전송에 실패했습니다."
 L["Failed to send profile. Ensure both characters are online and try again."] = "프로파일 전송에 실패했습니다. 두 캐릭터 모두가 온라인 상태인지 확인하고 다시 시도하세요."
-L["Failed to start sniper. No groups have a Sniper operation applied."] = "Failed to start sniper. No groups have a Sniper operation applied."
 L["Favorite Scans"] = "즐겨찾는 스캔"
 L["Favorite Searches"] = "즐겨찾기"
 L["Favorited Patterns"] = "즐겨찾는 도안"
