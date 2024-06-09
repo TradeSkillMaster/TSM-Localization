@@ -539,6 +539,7 @@ L["Gets items from the bank or guild bank matching the item or partial text ente
 L["Gold"] = "골드"
 L["Gold (%s)"] = "Gold (%s)"
 L["Great Deals Search"] = "Great Deals Search"
+L["Group"] = "Group"
 L["Group Management"] = "그룹 관리"
 L["Group Search"] = "그룹 검색"
 L["Group already exists."] = "그룹이 이미 존재합니다."

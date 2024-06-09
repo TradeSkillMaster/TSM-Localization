@@ -539,6 +539,7 @@ L["Gets items from the bank or guild bank matching the item or partial text ente
 L["Gold"] = "金"
 L["Gold (%s)"] = "Gold (%s)"
 L["Great Deals Search"] = "大交易巨划算搜索"
+L["Group"] = "Group"
 L["Group Management"] = "分组管理"
 L["Group Search"] = "组搜索"
 L["Group already exists."] = "已存在的分组"
