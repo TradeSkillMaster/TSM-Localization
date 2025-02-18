@@ -1214,7 +1214,6 @@ L["TSM will always attempt to undercut the cheapest auction as long as it's betw
 L["TSM will display an additional confirmation when attempting to buy an auction above this value. This can help avoid accidental purchases of expensive auctions."] = "TSM will display an additional confirmation when attempting to buy an auction above this value. This can help avoid accidental purchases of expensive auctions."
 L["TSM will not undercut any players you add to your whitelist."] = "TSM将不会试图压价你白名单中角色发布的物品。"
 L["TSM will stop automatically opening mail as needed in order keep this number of slots empty in your bags."] = "TSM will stop automatically opening mail as needed in order keep this number of slots empty in your bags."
-L["TSM4"] = "TSM4"
 L["Target character"] = "目标角色"
 L["Target shortfall to bags"] = "背包短缺目标"
 L["Tasks Added to Task List"] = "添加到任务列表"
