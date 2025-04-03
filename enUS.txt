@@ -1189,7 +1189,7 @@ L["Sync Setup Error: You entered the name of the current character and not the c
 L["Sync Status"] = "Sync Status"
 L["TOP PURCHASE"] = "TOP PURCHASE"
 L["TOP SALE"] = "TOP SALE"
-L["TSM %s: What's new"] = "TSM %s: What's new"
+L["TSM %s - What's New"] = "TSM %s - What's New"
 L["TSM Accounting"] = "TSM Accounting"
 L["TSM AuctionDB"] = "TSM AuctionDB"
 L["TSM Auctioning"] = "TSM Auctioning"

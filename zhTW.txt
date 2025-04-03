@@ -1189,7 +1189,7 @@ L["Sync Setup Error: You entered the name of the current character and not the c
 L["Sync Status"] = "同步狀態"
 L["TOP PURCHASE"] = "最高進貨額"
 L["TOP SALE"] = "最高銷售額"
-L["TSM %s: What's new"] = "TSM %s: 新變化"
+L["TSM %s - What's New"] = "TSM %s - What's New"
 L["TSM Accounting"] = "TSM 會計"
 L["TSM AuctionDB"] = "TSM 拍賣數據庫"
 L["TSM Auctioning"] = "TSM 拍賣"
