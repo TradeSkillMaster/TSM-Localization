@@ -1,4 +1,3 @@
--- LOCALE STRINGS START HERE
 L["%d Characters"] = "%d персонажей"
 L["%d Custom Sources"] = "%d пользовательских источников"
 L["%d Faction-Realms"] = "%d фракций-миров"
