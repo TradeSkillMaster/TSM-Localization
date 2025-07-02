@@ -29,6 +29,6 @@ To contribute an update to the localized strings, follow these steps:
 
 ## License
 
-Copyright (C) 2023 TradeSkillMaster LLC
+Copyright (C) 2025 TradeSkillMaster LLC
 
 All Rights Reserved
