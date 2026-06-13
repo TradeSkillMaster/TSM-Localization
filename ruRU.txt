@@ -1290,7 +1290,6 @@ L["This is not a valid profile name. Profile names must be at least one characte
 L["This is the maximum number of items you want to have in stock. If you already have more than this number, no more will be added to your Crafting queue."] = "Макс. количество для крафта."
 L["This is the minimum number of items to add to your Crafting queue before any items are added to your Crafting queue. For example, if this is set to 10 and the operation would only add 3 items to the crafting queue, the items would not be added."] = "Мин. количество для добавления в очередь."
 L["This item does not have a crafting cost. Check that all of its mats have mat prices."] = "Нет стоимости крафта. Проверьте цены материалов."
-L["This item is not in a TSM group."] = "Предмет не в группе TSM."
 L["This item will be added to the queue when you restock its group. If this isn't happening, please visit http://support.tradeskillmaster.com for further assistance."] = "Если предмет не добавляется в очередь, обратитесь в поддержку."
 L["This operation is applied to the base group which includes every item not in another group."] = "Операция применяется к базовой группе."
 L["This operation will be ignored on any of the selected characters."] = "Операция игнорируется для выбранных персонажей."
