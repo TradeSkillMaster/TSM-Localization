@@ -1277,6 +1277,7 @@ L["There are unbalanced parentheses in this custom string."] = "There are unbala
 L["There is currently no profession open, so cannot create profession groups."] = "Il n'y a actuellement aucun métier ouverte, il est donc impossible de créer des groupes de métier."
 L["There is no Crafting operation applied to this item's TSM group (%s)."] = "Aucune opération de fabrication n'est appliquée au groupe TSM de cet objet (%s)."
 L["There is nothing in your inventory to destroy which matches your settings."] = "There is nothing in your inventory to destroy which matches your settings."
+L["This change requires a reload."] = "This change requires a reload."
 L["This custom string defines how TSM determines the market value of items for calculating the '%' column in the search results. This value is only used when running a manual search in the Browse tab of the AH."] = "This custom string defines how TSM determines the market value of items for calculating the '%' column in the search results. This value is only used when running a manual search in the Browse tab of the AH."
 L["This custom string is too complex for WoW to handle; use custom sources to simplify it."] = "This custom string is too complex for WoW to handle; use custom sources to simplify it."
 L["This defines what TSM does when the lowest auction on the AH is above the maximum price you have set."] = "This defines what TSM does when the lowest auction on the AH is above the maximum price you have set."
