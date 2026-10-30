@@ -19,7 +19,6 @@ L["%d items were added from the table to %s."] = "%d items were added from the t
 L["%d items were added from the table to groups."] = "%d items were added from the table to groups."
 L["%d of %d"] = "%d de %d"
 L["%d subgroups included"] = "%d subgrupos incluídos"
-L["%d |4Group:Groups; Selected (%d |4Item:Items;)"] = "%d |4Grupo:Grupos; Seleccionado (%d |4Objeto:Objetos;)"
 L["%d/%d mail"] = "%d/%d mail"
 L["%dh"] = "%dh"
 L["%dm"] = "%dm"

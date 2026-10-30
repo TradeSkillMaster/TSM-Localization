@@ -19,7 +19,6 @@ L["%d items were added from the table to %s."] = "%d items were added from the t
 L["%d items were added from the table to groups."] = "%d items were added from the table to groups."
 L["%d of %d"] = "%d堆，每堆%d个"
 L["%d subgroups included"] = "包含%d个子分组"
-L["%d |4Group:Groups; Selected (%d |4Item:Items;)"] = "%d |4组:组; 已选 (%d|4项:项;)"
 L["%d/%d mail"] = "%d/%d mail"
 L["%dh"] = "%dh"
 L["%dm"] = "%dm"
