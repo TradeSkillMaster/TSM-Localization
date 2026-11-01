@@ -1226,6 +1226,7 @@ L["The '%s' item parameter was used outside of a custom source."] = "Парам�
 L["The 'Craft Value Method' did not return a value for this item."] = "Метод стоимости крафта не вернул значение."
 L["The AH does not support specifying a copper value (only gold and silver)."] = "Аукцион не поддерживает медные значения."
 L["The Base Group contains all ungrouped items in the game. Use the search and filter controls to find items to add to other groups."] = "Базовая группа содержит все несгруппированные предметы."
+L["The TSM Crafting UI can't be opened while in combat."] = "The TSM Crafting UI can't be opened while in combat."
 L["The TradeSkillMaster_AppHelper addon is installed, but not enabled. TSM has enabled it and requires a reload."] = "Аддон AppHelper включён. Требуется перезагрузка."
 L["The alt realm selection will not take affect until you next log into the game or reload your UI."] = "Изменения вступят после перезагрузки."
 L["The amount of items to keep in your bag, or the minimum number of items to have before TSM will send items with this operation."] = "Минимальное количество предметов для отправки."

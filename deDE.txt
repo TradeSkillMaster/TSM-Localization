@@ -1226,6 +1226,7 @@ L["The '%s' item parameter was used outside of a custom source."] = "Der Gegenst
 L["The 'Craft Value Method' did not return a value for this item."] = "Die 'Methode für den Herstellungswert' lieferte für diesen Gegenstand keinen Wert."
 L["The AH does not support specifying a copper value (only gold and silver)."] = "Das AH unterstützt keine Kupferwerte, sondern nur Gold und Silber."
 L["The Base Group contains all ungrouped items in the game. Use the search and filter controls to find items to add to other groups."] = "Die Basisgruppe enthält alle nicht gruppierten Gegenstände im Spiel. Verwende Suche und Filter, um Gegenstände zu finden und anderen Gruppen hinzuzufügen."
+L["The TSM Crafting UI can't be opened while in combat."] = "The TSM Crafting UI can't be opened while in combat."
 L["The TradeSkillMaster_AppHelper addon is installed, but not enabled. TSM has enabled it and requires a reload."] = "Das Add-on TradeSkillMaster_AppHelper ist installiert, aber nicht aktiviert. TSM hat es aktiviert; ein Neuladen ist erforderlich."
 L["The alt realm selection will not take affect until you next log into the game or reload your UI."] = "Die Auswahl des alternativen Realms wird erst beim nächsten Einloggen oder nach dem Neuladen der Benutzeroberfläche wirksam."
 L["The amount of items to keep in your bag, or the minimum number of items to have before TSM will send items with this operation."] = "Die Anzahl der Gegenstände, die in deinen Taschen verbleiben soll, bzw. die Mindestanzahl, ab der TSM Gegenstände mit dieser Operation versendet."

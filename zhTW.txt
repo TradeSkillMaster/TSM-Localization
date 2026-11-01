@@ -1226,6 +1226,7 @@ L["The '%s' item parameter was used outside of a custom source."] = "The '%s' it
 L["The 'Craft Value Method' did not return a value for this item."] = "“製成品估價方法“沒有給出該物品的估值"
 L["The AH does not support specifying a copper value (only gold and silver)."] = "拍賣行不支持設定銅幣價格（僅支持金幣和銀幣）。"
 L["The Base Group contains all ungrouped items in the game. Use the search and filter controls to find items to add to other groups."] = "基本群組包含了遊戲中所有的未群組物品. 使用搜尋與篩選的功能來找到物品, 將其加入其他群組."
+L["The TSM Crafting UI can't be opened while in combat."] = "The TSM Crafting UI can't be opened while in combat."
 L["The TradeSkillMaster_AppHelper addon is installed, but not enabled. TSM has enabled it and requires a reload."] = "插件TradeSkillMaster_AppHelper已安裝, 但沒啓用. TSM現已啓用它並需要重載。."
 L["The alt realm selection will not take affect until you next log into the game or reload your UI."] = "The alt realm selection will not take affect until you next log into the game or reload your UI."
 L["The amount of items to keep in your bag, or the minimum number of items to have before TSM will send items with this operation."] = "The amount of items to keep in your bag, or the minimum number of items to have before TSM will send items with this operation."
