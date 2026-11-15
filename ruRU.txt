@@ -1146,6 +1146,7 @@ L["Show only auctions with bids"] = "Показывать лоты со став
 L["Show results as:"] = "Показывать результаты как:"
 L["Show total gold in header"] = "Показывать золото в заголовке"
 L["Show ungrouped items as:"] = "Показывать несгруппированные как:"
+L["Showing %d of %d groups"] = "Showing %d of %d groups"
 L["Simple convert tooltip"] = "Простая подсказка конвертации"
 L["Simple destroy tooltip"] = "Простая подсказка уничтожения"
 L["Simple inventory"] = "Простой инвентарь"
