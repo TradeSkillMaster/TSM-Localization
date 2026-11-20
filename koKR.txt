@@ -131,7 +131,6 @@ L["Add subject & description (optional)"] = "제목 & 설명 추가하기 (선�
 L["Add to Mail"] = "메일에 추가하기"
 L["Added %s to %s."] = "%s가 %s에 추가됨."
 L["Added '%s' profile which was received from %s."] = "%s 에게 받은 '%s' 프로필이 추가되었습니다."
-L["Addon Updates"] = "Addon Updates"
 L["Adjust how TSM values crafted items when calculating profit."] = "이익을 계산할 때 TSM이 값을 만드는 방식 조정"
 L["Adjust how crafted items are restocked."] = "제작된 아이템이 재보충되는 방식 조정."
 L["Adjust how items are mailed."] = "아이템이 우편으로 보내지는 방식 조정하기"

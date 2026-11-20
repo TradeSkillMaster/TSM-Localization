@@ -131,7 +131,6 @@ L["Add subject & description (optional)"] = "Betreff & Beschreibung hinzufügen 
 L["Add to Mail"] = "Zur Post hinzufügen"
 L["Added %s to %s."] = "Die Operation %s wurde zur Gruppe %s hinzugefügt."
 L["Added '%s' profile which was received from %s."] = "'%s' Profil hinzugefügt. Erhalten von %s."
-L["Addon Updates"] = "Addon Updates"
 L["Adjust how TSM values crafted items when calculating profit."] = "Lege fest, wie TSM hergestellte Gegenstände bei der Gewinnberechnung bewertet."
 L["Adjust how crafted items are restocked."] = "Anpassen, wie hergestellter Gegenstand wieder aufgefüllt wird."
 L["Adjust how items are mailed."] = "Pass Versand von Gegenstände an"

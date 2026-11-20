@@ -131,7 +131,6 @@ L["Add subject & description (optional)"] = "Agregar asunto y descripción (opci
 L["Add to Mail"] = "Agregar a Mensaje"
 L["Added %s to %s."] = "Added %s to %s."
 L["Added '%s' profile which was received from %s."] = "Se agregó el perfil '%s', el cual fue recibido de %s."
-L["Addon Updates"] = "Addon Updates"
 L["Adjust how TSM values crafted items when calculating profit."] = "Adjust how TSM values crafted items when calculating profit."
 L["Adjust how crafted items are restocked."] = "Adjust how crafted items are restocked."
 L["Adjust how items are mailed."] = "Ajustar cómo son enviados objetos por mensaje."
